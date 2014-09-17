@@ -1,0 +1,8 @@
+{
+    "bootsgtrap-gallery-engine": {
+        "use": [
+            "node",
+            "node-base"
+        ]
+    }
+}

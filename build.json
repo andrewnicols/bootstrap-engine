@@ -1,0 +1,10 @@
+{
+    "name": "gallery-bootstrap-engine",
+    "builds": {
+        "gallery-bootstrap-engine": {
+            "jsfiles": [
+                "bootstrap-engine.js"
+            ]
+        }
+    }
+}
